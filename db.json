@@ -1,0 +1,1 @@
+[{"tipo":"resta","parametros":["4","7"],"resultado":-3,"timestamp":1678230714639},{"tipo":"suma","parametros":[4,7],"resultado":11,"timestamp":1678231141904},{"tipo":"division","parametros":["4","2"],"resultado":2,"timestamp":1678231174735}]
